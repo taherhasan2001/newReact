@@ -1,4 +1,4 @@
-simple steps to deploy react project on github
+simple steps to deploy react project on github-page
 
 read the steps here :-> https://github.com/gitname/react-gh-pages
 
